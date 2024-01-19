@@ -5,9 +5,9 @@ learn to use npm
 Describe the intended intent
 ## Usage
 **Install it:**
-`npm install @dafrog1/<project-title>`
+`npm install @dafrog1/npmtutorial`
 **Require it:**
-`const _ = require('@dafrog1/<project-title>');`
+`const _ = require('@dafrog1/npmtutorial');`
 **Call it:**
 `const results = _.firstFunction()`
 ## Documentation

@@ -1,0 +1,22 @@
+{
+  "name": "@dafrog1/npmtutorial",
+  "version": "1.0.2",
+  "description": "a mini clone of the [Lodash](https://lodash.com) libary",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dafrog1/npmTutorial.git"
+  },
+  "keywords": [
+    "npmtutorial"
+  ],
+  "author": "Declan Mullen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dafrog1/npmTutorial/issues"
+  },
+  "homepage": "https://github.com/Dafrog1/npmTutorial#readme"
+}
